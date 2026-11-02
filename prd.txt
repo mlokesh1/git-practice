@@ -1,0 +1,2 @@
+﻿Draft PRD - status : approved baseline
+approval evidence: https://github.com/mlokesh1/git-practice/pull/1#issuecomment-6569146956
